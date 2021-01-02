@@ -1,0 +1,55 @@
+FS20.off   material-templarian-lightbulb-off-outline.svg
+FS20.on    material-templarian-lightbulb.svg
+off        material-templarian-lightbulb-off-outline.svg
+on         material-templarian-lightbulb.svg
+OFF        material-templarian-lightbulb-off-outline.svg
+ON         material-templarian-lightbulb.svg
+Aus        material-templarian-lightbulb-off-outline.svg
+An         material-templarian-lightbulb.svg
+
+toggle         material-templarian-power-cycle.svg
+on-for-timer   material-templarian-progress-clock.svg
+off-for-timer  material-templarian-progress-clock.svg
+dimup          material-templarian-chevron-triple-up.svg
+dimdown        material-templarian-chevron-triple-down.svg
+
+set_on         material-templarian-power.svg
+set_off        material-templarian-power-off.svg
+set-on         material-templarian-power.svg
+set-off        material-templarian-power-off.svg
+set_ON         material-templarian-power.svg
+set_OFF        material-templarian-power-off.svg
+unreachable    material-templarian-alert-circle-outline.svg
+undefined      material-templarian-help-circle-outline.svg
+
+set_toggle        material-templarian-power-cycle.svg
+set_on_for_timer  material-templarian-progress-clock.svg
+set_off_for_timer material-templarian-progress-clock.svg
+set_dimup         material-templarian-chevron-triple-up.svg
+set_dimdown       material-templarian-chevron-triple-down.svg
+
+Next       material-templarian-skip-next-circle-outline.svg
+Prev       material-templarian-skip-previous-circle-outline.svg
+Zoom-out   material-templarian-magnify-minus-outline.svg
+Zoom-in    material-templarian-magnify-plus-outline.svg
+
+back       material-templarian-account-arrow-left.svg
+
+dim06%     material-templarian-brightness-1.svg
+dim12%     material-templarian-brightness-1.svg
+dim18%     material-templarian-brightness-1.svg
+dim25%     material-templarian-brightness-2.svg
+dim31%     material-templarian-brightness-2.svg
+dim37%     material-templarian-brightness-3.svg
+dim43%     material-templarian-brightness-3.svg
+dim50%     material-templarian-brightness-4.svg
+dim56%     material-templarian-brightness-4.svg
+dim62%     material-templarian-brightness-4.svg
+dim68%     material-templarian-brightness-5.svg
+dim75%     material-templarian-brightness-5.svg
+dim81%     material-templarian-brightness-6.svg
+dim87%     material-templarian-brightness-6.svg
+dim93%     material-templarian-brightness-7.svg
+dim100%    material-templarian-brightness-7.svg
+
+
